@@ -24,6 +24,22 @@
 </nav>
 
 <main>
+<section class="hero">
+    <div class="hero-content">
+        <p class="hero-label">UNIVERSITY OF CONSTANTINE 2</p>
+
+        <h2>History Is Our Identity</h2>
+
+        <p>
+            Explore civilizations, preserve memory,
+            and discover the stories that shaped our world.
+        </p>
+
+        <a href="#about" class="hero-button">
+            Discover Our Club
+        </a>
+    </div>
+</section>
     <section id="home">
         <h2>Welcome to Our Historical World</h2>
         <p>Explore history, knowledge, research and culture with us.</p>
