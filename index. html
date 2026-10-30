@@ -3,12 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>History Pioneers Club</title>
+
+    <title>History Pioneers Club | Constantine 2</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <h1>History Pioneers Club</h1>
-    <p>Discover the past. Understand the present. Inspire the future.</p>
+    <header>
+        <h1>History Pioneers Club</h1>
+        <p>Discover the Past · Understand the Present · Inspire the Future</p>
+    </header>
+
+    <main>
+        <h2>Welcome to Our Historical World</h2>
+
+        <p>
+            We are a university student club dedicated to history,
+            research, culture and knowledge.
+        </p>
+    </main>
+
+    <footer>
+        <p>History Pioneers Club © 2026</p>
+        <p>University of Constantine 2 – Abdelhamid Mehri</p>
+    </footer>
 
 </body>
 </html>
