@@ -103,3 +103,60 @@ footer {
         padding: 30px 18px;
     }
 }
+.hero {
+    min-height: 430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 25px;
+    background:
+        linear-gradient(rgba(40, 25, 16, 0.75),
+        rgba(40, 25, 16, 0.75)),
+        url("https://images.unsplash.com/photo-1461360370896-922624d12aa1");
+    background-size: cover;
+    background-position: center;
+    color: #fff4df;
+}
+
+.hero-content {
+    max-width: 750px;
+}
+
+.hero-label {
+    color: #d7b878;
+    letter-spacing: 3px;
+    font-size: 13px;
+    margin-bottom: 18px;
+}
+
+.hero h2 {
+    color: #fff4df;
+    font-size: 42px;
+    margin-bottom: 18px;
+}
+
+.hero-content p {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.hero-button {
+    display: inline-block;
+    background: #b99a5b;
+    color: #38251c;
+    padding: 12px 28px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.hero-button:hover {
+    background: #e4d1ae;
+}
+
+@media (max-width: 600px) {
+    .hero h2 {
+        font-size: 30px;
+    }
+} 
